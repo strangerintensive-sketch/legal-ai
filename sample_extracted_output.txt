@@ -1,0 +1,235 @@
+MD ENAYET CHOWDHURY
+
+mc77963@my.utexas.edu, enayet108@utexas.edu, enayet108@gmail.com | Austin, TX, USA
+
++1 512 825 5426 | LinkedIn | ORCID | GitHub | Google Scholar | ResearchGate | Website
+
+OBJECTIVE
+Seeking an internship in civil engineering, specializing in water resources, to apply expertise in hydrologic modeling, hydro
+climatology, flood forecasting, machine learning, and GIS-based geospatial analysis.
+
+EDUCATION
+Ph.D. in Civil Engineering (in progress; expected graduation: 2029) | CGPA: 3.89/4.00 | The University of
+Texas at Austin | Austin, Texas, USA | Supervised by Dr Jun-Whan Lee
+
+Aug 2024 -
+Present
+
+M.Sc. in Water Resources Development | CGPA: 3.75/4.00
+Bangladesh University of Engineering and Technology | Dhaka, Bangladesh
+
+Apr 2021 -
+Sept 2023
+
+B.Sc. in Civil Engineering | CGPA: 3.84/4.00
+Bangladesh University of Engineering and Technology | Dhaka, Bangladesh
+
+Feb 2015 -
+Apr 2019
+
+TECHNICAL SKILLS
+Applications: Delft-SFINCS, Delft-FEWS, ArcGIS, QGIS, AutoCAD, Google Earth Pro, Google Earth Engine, HEC-RAS, HEC-
+HMS, MATLAB, Microsoft Office Suite | Coding: Python, R, XML, C, C++
+
+RESEARCH WORK EXPERIENCES
+Graduate Research Assistant | The University of Texas at Austin
+
+Aug 2024 -
+Present
+
+➢ Analyze the compound flood drivers' individual impact on coastal flooding using a physics-based model, Delft-
+
+SFINCS
+
+Co-Project Investigator | Bangladesh University of Engineering and Technology
+
+Oct 2022 -
+Aug 2024
+
+➢ Worked on climate modeling, scenarios, and projections, as well as sustainable sediment management for the 22
+
+coastal towns in Bangladesh
+
+Co-Project Investigator | Bangladesh University of Engineering and Technology
+
+Oct 2019 -
+June 2023
+
+➢ Developed a component of an open-source flash flood forecasting model, named Delft-FEWS, which integrated
+
+meteorological (WRF), hydrological (HEC-HMS), and hydrodynamic models (HEC-RAS) in a single graphical
+user interface [Publication]
+
+➢ Developed and implemented advanced machine learning models using Python, Google Earth Engine, and
+
+RClimDex, integrating Sentinel-1 SAR data, ArcGIS-based geospatial analysis, and climate indices for flash flood
+susceptibility mapping [Publication]
+
+Reviewer | Journal of Irrigation and Drainage Engineering - ASCE
+2021
+
+Convening Organization: American Society of Civil Engineers (Reston, US)
+
+CONSULTANCY EXPERIENCES
+Riverbank Survey Specialist | Bangladesh University of Engineering and Technology
+
+Jan 2022 -
+Jan 2023
+
+➢ Quantified the current geotechnical conditions of various coastal embankments/riverbanks using the Standard
+
+Penetration Test (SPT) and Electrical Resistivity Meter (ERM) | Client: Bangladesh Water Development Board
+(BWDB)
+
+Junior Remote Sensing Analyst | Bangladesh University of Engineering and Technology
+
+Feb 2021 -
+Jan 2022
+
+➢ Managed a comprehensive water quality data repository for 53 transboundary rivers of Bangladesh using
+
+geospatial analysis and mapping tools, including ArcGIS and QGIS | Client: The World Bank
+
+Consultant on Hydrological, Hydraulic, and Morphological Study of Rivers | Bangladesh University of
+Engineering and Technology
+
+Dec 2019 -
+Nov 2023
+
+➢ Worked on data collection through field surveys on the hydrological, hydraulic, and morphological aspects of
+
+various rivers in Bangladesh | Clients: Local Government Engineering Department (LGED), Bangladesh Water
+Development Board (BWDB)
+
+TEACHING EXPERIENCES
+Assistant Professor (on study leave) | Bangladesh University of Engineering and Technology
+
+May 2024 -
+Present
+
+➢ Mentored a class of 30-40 students, delivering lectures and guiding them in field surveys, as well as conducting
+
+Focus Group Discussions (FGDs) and Key Informant Interviews (KIIs).
+
+Lecturer | Bangladesh University of Engineering and Technology
+
+Oct 2019 -
+May 2024
+
+➢ Designed and delivered a short course providing hands-on training in climate data downloading, statistical
+
+downscaling, and bias correction using R
+
+Lecturer | Ahsanullah University of Science and Technology
+
+Jul 2019 -
+Oct 2019
+
+➢ Served as the primary instructor for undergraduate classes of 150-200 students, delivering lectures, arranging
+
+course materials and slides, and leading lab sessions across structural, geotechnical, and water resources
+engineering topics
+
+PUBLICATIONS
+Journal Articles (Selected)
+
+1. Chowdhury, M. E., Islam, A. S., Zzaman, R. U., and Khadem, S. (2025). A machine learning-based approach for flash flood
+
+susceptibility mapping considering rainfall extremes in the northeast region of Bangladesh. Advances in Space Research, Volume
+75, Issue 2, Pages 1990-2017. DOI: 10.1016/j.asr.2024.10.047
+
+2. Chowdhury, M. E., Islam, A. S., Lemans, M., Hegnauer, M., Sajib, A. R., Pieu, N. M., Das, M. K., Shadia, N., Haque, A., Roy, B.,
+
+Billah, M., Abdullah, F., Mamoon, W. B., Kaiser, S., Bala, S. K., Islam, G. M. T., Sarker, G. C., Bhuiyan, S. R., and Bhuyan, A.
+(2023). An efficient flash flood forecasting system for the un-gaged Meghna basin using open source platform Delft-FEWS.
+Environmental Modelling and Software, 161, 105614. DOI: 10.1016/j.envsoft.2022.105614
+
+3. Islam, A., Islam, M. S., Chowdhury, M. E., and Badhon, F. F. (2021). Influence of vetiver grass (Chrysopogon zizanioides) on
+
+infiltration and erosion control of hill slopes under simulated extreme rainfall condition in Bangladesh. Arabian Journal of
+Geosciences, 14(2). DOI: 10.1007/s12517-020-06338-y
+
+4. Chowdhury, M. E., Islam, M. S., Alam, T., Barua, S., Shahriar, M. S., and Anisa, H. (2020). Infiltration in vegetated soil: empirical
+
+modeling and sensitivity analysis. Modeling Earth Systems and Environment, 7(1), 547-559. DOI: 10.1007/s40808-020-00867-x
+
+5. Abdullah, M.S., Nowreen, S., Zzaman, R.U., Hasnat, S., Satu, S.M., Chowdhury, M.E. (2021). Urbanising delta: what lessons
+
+Dhaka offers to face challenges. Journal of Policy & Governance, 01(02) (December 2021), 1-21. DOI: 10.33002/jpg010201
+
+Conference Proceedings (Selected)
+
+1. Chowdhury, M.E. and Sakib, S. (2021). A review on the pullout capacity of an anchor block embedded in cohesionless soil.
+
+Proceedings of the 5th International Conference on Advances in Civil Engineering (ICACE 2020), CUET, 4-6 March 2021, Imam,
+Rahman and Pal (eds.), Chattogram-4349, Bangladesh.
+
+2. Shampa, Rahman, M.M., Islam, M.S., Rahman, M.A., Chowdhury, M.E., Sakib, M.S., Haque, A., Rahman, M.R., Salehin, M.
+
+(2021). Community led approach towards managing river bank erosion. 8th International Conference on Water and Flood
+Management (ICWFM 2021), Institute of Water and Flood Management (IWFM), Dhaka, Bangladesh.
+
+Theses
+1. Chowdhury, M.E. (2023). Modelling of basin wide flash flood susceptibility using traditional and hybrid machine learning
+
+techniques for the northeast region of Bangladesh. M.Sc. thesis, Bangladesh University of Engineering and Technology (BUET),
+Dhaka-1000.
+
+2. Chowdhury, M.E. (2019). Effects of vegetation on soil water infiltration. B.Sc. thesis, Bangladesh University of Engineering and
+
+Technology (BUET), Dhaka-1000.
+
+AWARDS, ACHIEVEMENTS, AND ADVANCED TRAININGS
+Advanced Training | Spatial and temporal climate change analysis using CORDEX regional climate models over
+South Asia for Bangladesh
+
+2021
+
+Dean's Award | For maintaining an equal to or greater than 3.75 GPA in one academic year
+2016-2019
+
+Best Paper Award | 14th Global Engineering and Technology Conference, 29-30 December 2017, BIAM
+Foundation, Dhaka, Bangladesh
+
+2017
+
+Honourable Mention (for distinction in co-curricular activities) | Notre Dame College, Dhaka
+2014
+
+LEADERSHIP EXPERIENCES
+Civil, Architectural, and Environmental Engineering Hackathon Mentor | The University of Texas at Austin
+
+2025
+
+➢ Guided the participants through challenges, assisted with technical issues related to Python coding, and helped
+
+with tasks such as mapping inline in Jupyter Notebook, data visualization, and defining functions in Python
+
+Assistant Organizing Secretary | International Conference on Water and Flood Management (ICWFM)
+
+2023 &
+2021
+
+➢ Arranged technical sessions, managed logistics, oversaw print and publication tasks, coordinated with scientific
+
+and advisory committee members, and handled venue management
+
+Director | Bangladesh University of Engineering and Technology Debating Club
+➢ Organized and oversaw university-level debating competitions, managing volunteer teams, selecting debate
+
+2018-2019
+
+topics, coordinating with faculty members, and arranging event venues to ensure smooth execution
+
+Assistant General Secretary (Debate and Workshop) | Notre Dame College Debating Club
+➢ Arranged weekly debating sessions and organized topic-focused workshops to enhance members' debating skills
+
+2014
+
+Vice President | Ideal School and College Debating Club
+
+2011-12
+
+➢ Led sponsorship negotiations with corporate partners, managed event logistics, and served as editor of the club's
+
+annual magazine
