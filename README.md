@@ -15,7 +15,7 @@ Document ingestion, grounded drafting, and improvement from operator edits.
 
 1. **Clone the repository**
 ```bash
-git clone <your-repo>
+git clone [<your-repo>](https://github.com/strangerintensive-sketch/legal-ai)
 cd legal-ai
 ```
 
